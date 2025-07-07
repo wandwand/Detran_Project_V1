@@ -1,0 +1,4 @@
+../Drivers/motor_driver/motor_driver.c:27:6:start_pwm_fwd	8	static
+../Drivers/motor_driver/motor_driver.c:41:6:start_pwm_rev	8	static
+../Drivers/motor_driver/motor_driver.c:54:6:stop_pwm	8	static
+../Drivers/motor_driver/motor_driver.c:68:6:pwm_ramp_task	56	static
