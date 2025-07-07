@@ -49,6 +49,7 @@ que representam uma amostragem de 12 bits pelo adc.
 | 0      | 1     | 1      | REV(Parado)|
 
 ![image](https://github.com/user-attachments/assets/06e14c49-f435-45a1-9f5a-bdb789d71d39)
+
 Fonte: Próprio Autor, Software EASYEDA.
 
 ###  FTDI232 ↔ STM32G030F6P6 (Comunicação UART)
