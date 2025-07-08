@@ -117,3 +117,6 @@ Fonte: Próprio Autor, Software EASYEDA.
 | Jumpers diversos   | Conexões entre componentes e módulos                      |
 
 
+---
+##  8. Video de apresentação do projeto
+https://youtube.com/shorts/Xiu0BaGgNZ0?si=5_VKTWtZ8QYceb8C
