@@ -37,9 +37,9 @@ Ao regular o potenciômetro, podemos vizualizar uma mudança na tensão entre 0 
 que representam uma amostragem de 12 bits pelo adc.
 
 ###  Simulação de Motor DC:
-- LEDs utilizados para simular o controle de um motor DC são A8, A11 e A6. Sendo os dois primeiros de
-  direção e o terceiro de movimento(ou pwm) com Duty Cycle indo de 0 a 100%, simulando uma partida em rampa.
-  Segue a tabela como referência, usando 1, como LED on e 0 como LED off:
+- Os pinos dos LEDs utilizados para simular o controle de um motor DC são A8(GPIO OUTPUT), A11(GPIO OUTPUT) e A6(PWM).
+  Sendo os dois primeiros de direção e o terceiro de movimento(ou pwm) com Duty Cycle indo de 0 a 100%,
+  simulando uma partida em rampa. Segue a tabela como referência, usando 1, como LED on e 0 como LED off:
 
 |A8 Pin  |A11 Pin| A16 Pin| Operação   |
 |--------|-------|--------|------------|
