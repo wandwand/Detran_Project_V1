@@ -58,15 +58,19 @@ Fonte: Próprio Autor, Software EASYEDA.
 |-------------|-------------------|
 | GND         | GND               |
 | VCC         | 3.3V              |
-| RX          | TX (ex: PA2)      |
-| TX          | RX (ex: PA3)      |
+| RX          | USART1 TX (PB6)   |
+| TX          | USART1 RX (PB7)   |
+
+![image](https://github.com/user-attachments/assets/c7c1ef5b-2415-4d4f-9f3b-6ba4703209d6)
+
+Fonte: Próprio Autor, Software: STM32CubeIDE
 
 ###  STLINK V2 ↔ STM32G030F6P6 (Programação via SWD)
 
 | STLINK V2 Pin | STM32G030F6P6 Pin |
 |---------------|-------------------|
-| SWDIO         | DIO (ex: PA13)    |
-| SWCLK         | CLK (ex: PA14)    |
+| SWDIO         | DIO               |
+| SWCLK         | CLK               |
 | GND           | GND               |
 | 3.3V/VCC      | 3.3V/VPP          |
 
