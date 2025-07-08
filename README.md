@@ -105,8 +105,8 @@ Fonte: Próprio Autor, Software: STM32CubeIDE
 ##  6. Layout das Configurações e Fluxo de Comando
 
 - **Timer 3, Canal 1**: Geração de PWM para acionamento dos LEDs.
-- **ADC**: Leitura analógica do potenciômetro.
-- **UART**: Comunicação com o terminal serial.
+- **ADC, IN7**: Leitura analógica do potenciômetro.
+- **USART1**: Comunicação com o terminal serial.
 
 
 ---
