@@ -38,8 +38,8 @@ que representam uma amostragem de 12 bits pelo adc.
 
 ###  Simulação de Motor DC:
 - LEDs utilizados para simular o controle de um motor DC são A8, A11 e A6. Sendo os dois primeiros de
-  direção e o terceiro de movimento(ou pwm). Segue a tabela como referência, usando 1, como LED on e
-  0 como LED off:
+  direção e o terceiro de movimento(ou pwm) com Duty Cycle indo de 0 a 100%, simulando uma partida em rampa.
+  Segue a tabela como referência, usando 1, como LED on e 0 como LED off:
 
 |A8 Pin  |A11 Pin| A16 Pin| Operação   |
 |--------|-------|--------|------------|
