@@ -79,11 +79,11 @@ Fonte: Próprio Autor, Software: STM32CubeIDE
 ##  4. Guia Prático de Execução (Hands-on)
 
 1. Monte os componentes conforme a tabela de conexões.
-2. Importe o projeto do Github no STM32CubeIDE. --> Segue tutorial abaixo:
-   - https://www.youtube.com/watch?v=dCE-4dgL82o&list=TLPQMDgwNzIwMjWK3iY7QTV0bA&index=2
-   - https://www.youtube.com/watch?v=EMME859o5u0&list=TLPQMDgwNzIwMjWK3iY7QTV0bA&index=1
+2. Instale o Git na STM32CubeIDE. --> Segue tutorial abaixo:
+   - https://www.youtube.com/watch?v=dCE-4dgL82o&list=TLPQMDgwNzIwMjWK3iY7QTV0bA&index=3
    
 3. Compile e grave o firmware no STM32 usando o STM32CubeIDE.
+ OBS: Vou deixar o Link no tópico 8 do vídeo de como importar o código do Github e executar os comandos.   
 4. Abra o PuTTY com a porta serial correta e 115200 bps.
 5. Envie comandos via UART para interagir com o sistema.
 6. Use o potenciômetro para simular a "tensão na bateria" analógica dinâmica.
@@ -127,4 +127,4 @@ Fonte: Próprio Autor, Software: STM32CubeIDE
 
 ---
 ##  8. Video de apresentação do projeto
-https://youtube.com/shorts/Xiu0BaGgNZ0?si=5_VKTWtZ8QYceb8C
+https://youtu.be/Ve2H3izLYe4
