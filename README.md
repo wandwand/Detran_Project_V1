@@ -127,4 +127,5 @@ Fonte: Próprio Autor, Software: STM32CubeIDE
 
 ---
 ##  8. Video de apresentação do projeto
-https://youtu.be/Ve2H3izLYe4
+[https://youtu.be/Ve2H3izLYe4](https://youtu.be/Nywni7Aq6R0)
+
